@@ -48,7 +48,7 @@
 
 ### 📘 DSA Practice Repository
 - 300+ solved problems from **LeetCode & GFG**
-- Covers Arrays, Strings, Trees, Graphs & Dynamic Programming
+- Covers Arrays, Strings, Linked List, Recursion, Backtracking, Trees, Graphs & Dynamic Programming
 - https://github.com/kush86005/DSA-Questions
 
 ---
